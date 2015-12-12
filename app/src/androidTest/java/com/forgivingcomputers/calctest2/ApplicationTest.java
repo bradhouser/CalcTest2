@@ -3,6 +3,8 @@ package com.forgivingcomputers.calctest2;
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
+// java comment
+
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
  */
