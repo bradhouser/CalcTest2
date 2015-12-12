@@ -5,7 +5,7 @@ import android.test.ApplicationTestCase;
 
 // java comment
 //first branch comment added here
-
+//2nd branch comment here
 
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
